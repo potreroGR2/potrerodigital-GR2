@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/*familia fuentes font-family: "Josefin Sans", sans-serif;
+font-family: "Nunito Sans", sans-serif;
+font-family: "Roboto", sans-serif;*/
+h1,{
+  font-family: "Roboto", sans-serif;
+}
+
+p,{
+  font-family: "Nunito Sans", sans-serif;
+}
+body{
+  background-color: rgb(144, 211, 171);
+}
+h1 {
+  border: 10px double rgb(211, 229, 134);
+  border-radius: 10px;
+  padding: 10px;
+}
+img{
+  border: 10px ridge rgb(188, 181, 195);
+  border-radius: 10px;
+}
+h2{
+  border: 6px dotted rgb(193, 230, 97);
+  padding: 15px;
+}
+h3{border: 6px solid rgb(197, 225, 56);
+border-radius: 10px;
+padding: 15px;
+}
+
+iframe {
+  border: 10px ridge rgb(188, 181, 195);
+  border-radius: 10px;
+}
+li{
+  border:  10px ridge rgb(188, 181, 195);
+  border-radius: 10px;
+  padding: 15px;
+}
+body{
+  margin: 2%;
+}
+
